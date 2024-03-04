@@ -1,3 +1,8 @@
+# This code is here to serve historical purposes, to remind you of what you should **not** do.
+
+## Please do not, and I highlight **DO NOT** download it and use it for piracy. Do not damage poor brands. They have feelings and hopes and dreams.
+
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
